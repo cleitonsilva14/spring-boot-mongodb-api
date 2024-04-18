@@ -1,4 +1,4 @@
-# API Spring Boot com MongoDB
+# Exemplo para Estudo : API Spring Boot com MongoDB
 Exemplo de API simples com Spring Boot 3 e MongoDB para estudos
 Pacotes:
 
